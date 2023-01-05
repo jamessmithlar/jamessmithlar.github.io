@@ -183,7 +183,7 @@ $(document).ready(function () {
     });
 
     $('#cv_btn').click(function() {
-       window.open('https://github.com/codegitpro/PK-personal-simple-site/raw/master/resume.pdf', '_blank');
+       window.open('https://github.com/jamessmithlar/portfolio/raw/main/resume.pdf', '_blank');
     });
 }); // document ready end 
 
